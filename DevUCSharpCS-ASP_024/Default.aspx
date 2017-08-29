@@ -11,6 +11,7 @@
         <div>
             <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="OK" />
         </div>
+        <asp:Label ID="resultLabel" runat="server"></asp:Label>
     </form>
 </body>
 </html>
